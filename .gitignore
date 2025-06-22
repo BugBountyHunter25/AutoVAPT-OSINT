@@ -1,0 +1,33 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# VS Code settings
+.vscode/
+*.code-workspace
+
+# Environment
+.env
+venv/
+.env.*
+*.env
+
+# Output / logs / reports
+*.log
+*.out
+*.report
+osint_report.json
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# PyQt5/PyQt6 UI cache
+*.pyc
+*.qmlc
+
+# Misc
+*.zip
+*.tar.gz
+*.bak
