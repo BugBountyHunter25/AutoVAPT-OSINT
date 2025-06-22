@@ -1,8 +1,9 @@
+# Your local README content
+
 # 🛡️ AutoVAPT OSINT — Automated Vulnerability Assessment, Penetration Testing & OSINT Toolkit
 
 > 🔍 A powerful Python-based GUI tool to automate vulnerability scanning, penetration testing, and deep OSINT reconnaissance — all in one place. Built with PyQt6 and Nmap, with full free API integrations.
 
-![AutoVAPT GUI Preview](assets/gui_preview.png) <!-- Add your actual screenshot path -->
 
 ---
 
@@ -31,3 +32,5 @@
 - Save results in JSON format
 
 
+# AutoVAPT-OSINT
+AutoVAPT is an AI-enhanced Open Source Intelligence (OSINT) tool designed for quick and effective reconnaissance in cybersecurity assessments. With a user-friendly PyQt6 interface, it combines multiple OSINT techniques into one seamless platform to extract intelligence on domains, IP addresses, phone numbers, and breached passwords.
